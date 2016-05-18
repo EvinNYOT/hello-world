@@ -1,2 +1,5 @@
 # hello-world
-Evin NYOT Github setup 
+
+Hey All! 
+
+I am Evin from Brooklyn. I enjoy technologyy working with great people. 
